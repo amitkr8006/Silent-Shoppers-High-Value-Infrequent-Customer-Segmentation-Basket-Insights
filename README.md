@@ -1,0 +1,2 @@
+# Silent-Shoppers-High-Value-Infrequent-Customer-Segmentation-Basket-Insights
+Silent Shoppers segmentation project using transaction/basket data to identify high-value infrequent customers (bottom 25% visits, top 25% avg spend). Quantifies revenue concentration (36% of revenue), profiles category preferences and demographics, and builds basket/customer clusters to recommend loyalty, bundling, personalised offers.
